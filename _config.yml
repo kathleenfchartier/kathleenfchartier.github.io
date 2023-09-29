@@ -1,12 +1,13 @@
 title: Kathleen Chartier # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Professional experience as engineer and mathematics educator.  I am very curious about the world around me and am frequently asking "How?" or "Why?".
+  Professional experience as engineer and mathematics educator.  <br>
+  I am very curious about the world around me and am frequently asking "How?" or "Why?".<br>
   That is why I love data Analytics so much - it helps me to answer those questions!
-  <br><br>
+  
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/kathleen-chartier-338546254">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
