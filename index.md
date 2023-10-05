@@ -1,6 +1,3 @@
-body {
-background-color: #C2F6DA;
-}  
 # Portfolio
 
 ---
@@ -9,6 +6,7 @@ background-color: #C2F6DA;
 [Spotify Wrapped](https://www.linkedin.com/pulse/chartier-family-wrapped-kathleen-chartier%3FtrackingId=5%252FPtS9YuWscybzpoKJDbRg%253D%253D/?trackingId=5%2FPtS9YuWscybzpoKJDbRg%3D%3D)
 <img src="images/Spotify_Logo_CMYK_Green.png?raw=true"/>
 ### Skills: Tableau, Python and Spotipy, JSON files, Excel
+I used Spotify data from all the family members and created a dashboard to analyze top songs, top artists, top genresa and more!
 
 ---
 [Hydraulic Oil Rig Dashboard](https://www.linkedin.com/pulse/hydraulic-oil-rig-dashboard-kathleen-chartier%3FtrackingId=W%252BEQU%252B5xtqKBjMsAFwkcEg%253D%253D/?trackingId=W%2BEQU%2B5xtqKBjMsAFwkcEg%3D%3D)
