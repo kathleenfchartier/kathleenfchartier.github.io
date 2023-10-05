@@ -3,12 +3,12 @@
 ---
 
 
-[Project 1 Title](https://www.linkedin.com/pulse/chartier-family-wrapped-kathleen-chartier%3FtrackingId=5%252FPtS9YuWscybzpoKJDbRg%253D%253D/?trackingId=5%2FPtS9YuWscybzpoKJDbRg%3D%3D)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Spotify Wrapped](https://www.linkedin.com/pulse/chartier-family-wrapped-kathleen-chartier%3FtrackingId=5%252FPtS9YuWscybzpoKJDbRg%253D%253D/?trackingId=5%2FPtS9YuWscybzpoKJDbRg%3D%3D)
+<img src="images/Spotify_Logo_CMYK_Green.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Hydraulic Oil Rig Dashboard](https://www.linkedin.com/pulse/hydraulic-oil-rig-dashboard-kathleen-chartier%3FtrackingId=W%252BEQU%252B5xtqKBjMsAFwkcEg%253D%253D/?trackingId=W%2BEQU%2B5xtqKBjMsAFwkcEg%3D%3D)
+<img src="images/beautiful-sunset-oil-field-with-pump-jack.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
