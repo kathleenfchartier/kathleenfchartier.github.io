@@ -2,7 +2,6 @@
 
 ---
 
-### Category Name 1 
 
 [Project 1 Title](https://www.linkedin.com/pulse/chartier-family-wrapped-kathleen-chartier%3FtrackingId=5%252FPtS9YuWscybzpoKJDbRg%253D%253D/?trackingId=5%2FPtS9YuWscybzpoKJDbRg%3D%3D)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
