@@ -12,7 +12,7 @@
 <img src="images/beautiful-sunset-oil-field-with-pump-jack.jpg?raw=true"/>
 ### Skills: Tableau, Excel
 ---
-[MySQL and Python study of Chicago Crime, Public School and Socioeconomic Data](https://www.linkedin.com/pulse/mysql-python-study-chicago-crime-public-school-data-kathleen-chartier%3FtrackingId=rMeYqneYkJQQD03LFbtitA%253D%253D/?trackingId=rMeYqneYkJQQD03LFbtitA%3D%3D)
+[Chicago Crime, Public School and Socioeconomic Data](https://www.linkedin.com/pulse/mysql-python-study-chicago-crime-public-school-data-kathleen-chartier%3FtrackingId=rMeYqneYkJQQD03LFbtitA%253D%253D/?trackingId=rMeYqneYkJQQD03LFbtitA%3D%3D)
 <img src="images/architecture-1869211_1280.jpg?raw=true"/>
 ### Skills: SQL, Matplotlib
 
