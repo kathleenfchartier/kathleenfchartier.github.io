@@ -1,5 +1,6 @@
-body style="background-color:#C2F6DA;"
-  
+body {
+background-color: #C2F6DA;
+}  
 # Portfolio
 
 ---
