@@ -1,4 +1,6 @@
-'rgb(148,238,190)'
+body {
+background-color: #94EEBE;
+}
 # Portfolio
 
 ---
