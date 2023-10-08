@@ -3,7 +3,7 @@
 ---
 
 
-## Spotify Wrapped
+## [Spotify Wrapped](https://www.linkedin.com/pulse/chartier-family-wrapped-kathleen-chartier%3FtrackingId=5%252FPtS9YuWscybzpoKJDbRg%253D%253D/?trackingId=5%2FPtS9YuWscybzpoKJDbRg%3D%3D)
 [<img src="images/Spotify_Logo_CMYK_Green.png?raw=true"/>](https://www.linkedin.com/pulse/chartier-family-wrapped-kathleen-chartier%3FtrackingId=5%252FPtS9YuWscybzpoKJDbRg%253D%253D/?trackingId=5%2FPtS9YuWscybzpoKJDbRg%3D%3D)
 
 ### Skills: Tableau, Python and Spotipy, JSON files, Excel
