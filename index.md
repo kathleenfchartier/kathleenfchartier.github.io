@@ -1,4 +1,4 @@
-# Data Projects Portfolio
+# Data Analytics Portfolio
 
 ---
 
@@ -24,13 +24,7 @@ I used city of Chicago data and analyzed it to detemine if there is a correlatio
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[<img src="images/LI-Logo.png?raw=true"/>](="https://www.linkedin.com/in/kathleen-chartier-338546254"![image](https://github.com/kathleenfchartier/kathleenfchartier.github.io/assets/119955400/3147b2fe-31bb-4b90-b356-207564377772)
 
 ---
 
