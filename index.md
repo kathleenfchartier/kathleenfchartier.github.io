@@ -12,7 +12,7 @@ I used Spotify data from all the family members and created a dashboard to analy
 ---
 
 ## [Hydraulic Oil Rig Dashboard](https://www.linkedin.com/pulse/hydraulic-oil-rig-dashboard-kathleen-chartier%3FtrackingId=W%252BEQU%252B5xtqKBjMsAFwkcEg%253D%253D/?trackingId=W%2BEQU%2B5xtqKBjMsAFwkcEg%3D%3D)
-[<img src="images/beautiful-sunset-oil-field-with-pump-jack.jpg?raw=true"/>](https://www.linkedin.com/pulse/hydraulic-oil-rig-dashboard-kathleen-chartier%3FtrackingId=W%252BEQU%252B5xtqKBjMsAFwkcEg%253D%253D/?trackingId=W%2BEQU%2B5xtqKBjMsAFwkcEg%3D%3D)
+[<img src="images/beautiful-sunset-oil-field-with-pump-jack.jpg?raw=true" width="476" height="143"/>](https://www.linkedin.com/pulse/hydraulic-oil-rig-dashboard-kathleen-chartier%3FtrackingId=W%252BEQU%252B5xtqKBjMsAFwkcEg%253D%253D/?trackingId=W%2BEQU%2B5xtqKBjMsAFwkcEg%3D%3D)
 ### Skills: Tableau, Excel
 I used data from manufacturing process to create a dashboard to allow users to see the process as a whole.
 
