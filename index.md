@@ -24,7 +24,7 @@ I used city of Chicago data and analyzed it to detemine if there is a correlatio
 
 ---
 
-[<img src="images/LI-Logo.png?raw=true"/>](https://www.linkedin.com/in/kathleen-chartier-338546254)
+[<img src="images/LI-Logo.png?raw=true" width="214" height="143"/>](https://www.linkedin.com/in/kathleen-chartier-338546254)
 
 [<img src="images/TableauLogo_RGB.png?raw=true"/>](https://public.tableau.com/app/profile/kathleen.chartier)
 
