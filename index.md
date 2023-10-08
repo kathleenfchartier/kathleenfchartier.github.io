@@ -18,7 +18,7 @@ I used data from manufacturing process to create a dashboard to allow users to s
 
 ---
 ## [Study of Chicago Crime, Public School and Socioeconomic Data](https://www.linkedin.com/pulse/mysql-python-study-chicago-crime-public-school-data-kathleen-chartier%3FtrackingId=rMeYqneYkJQQD03LFbtitA%253D%253D/?trackingId=rMeYqneYkJQQD03LFbtitA%3D%3D)
-[<img src="images/architecture-1869211_1280.jpg?raw=true"/>](https://www.linkedin.com/pulse/mysql-python-study-chicago-crime-public-school-data-kathleen-chartier%3FtrackingId=rMeYqneYkJQQD03LFbtitA%253D%253D/?trackingId=rMeYqneYkJQQD03LFbtitA%3D%3D)
+[<img src="images/architecture-1869211_1280.jpg?raw=true" width="232" height="143"/>](https://www.linkedin.com/pulse/mysql-python-study-chicago-crime-public-school-data-kathleen-chartier%3FtrackingId=rMeYqneYkJQQD03LFbtitA%253D%253D/?trackingId=rMeYqneYkJQQD03LFbtitA%3D%3D)
 ### Skills: SQL, Python, Matplotlib
 I used city of Chicago data and analyzed it to detemine if there is a correlation between student success and socioeconomic status.
 
