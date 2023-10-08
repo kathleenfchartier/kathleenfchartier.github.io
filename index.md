@@ -39,3 +39,8 @@ I used city of Chicago data and analyzed it to detemine if there is a correlatio
 
 ---
 
+<style>
+footer {
+    display: none;
+}
+</style>
