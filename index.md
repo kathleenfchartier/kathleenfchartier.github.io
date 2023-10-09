@@ -4,7 +4,7 @@
 
 
 ## [Spotify Wrapped](https://www.linkedin.com/pulse/chartier-family-wrapped-kathleen-chartier%3FtrackingId=5%252FPtS9YuWscybzpoKJDbRg%253D%253D/?trackingId=5%2FPtS9YuWscybzpoKJDbRg%3D%3D)
-[<img src="images/Spotify_Logo_CMYK_Green.png?raw=true" width="500" height="150"/>](https://www.linkedin.com/pulse/chartier-family-wrapped-kathleen-chartier%3FtrackingId=5%252FPtS9YuWscybzpoKJDbRg%253D%253D/?trackingId=5%2FPtS9YuWscybzpoKJDbRg%3D%3D)
+[<img src="images/Spotify_Logo_CMYK_Green.png?raw=true" width="400" height="120"/>](https://www.linkedin.com/pulse/chartier-family-wrapped-kathleen-chartier%3FtrackingId=5%252FPtS9YuWscybzpoKJDbRg%253D%253D/?trackingId=5%2FPtS9YuWscybzpoKJDbRg%3D%3D)
 
 ### Skills: Tableau, Python and Spotipy, JSON files, Excel
 I used Spotify data from all the family members and created a dashboard to analyze top songs, top artists, top genres and more!
@@ -31,4 +31,4 @@ I used city of Chicago data and analyzed it to detemine if there is a correlatio
 [<img src="images/TableauLogo_RGB.png?raw=true" width="120" height="25"/>](https://public.tableau.com/app/profile/kathleen.chartier)
 
 ---
-<a target="_blank" href="https://icons8.com/icon/12053/document">Document</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<a font size = "1" target="_blank" href="https://icons8.com/icon/12053/document">Document</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
