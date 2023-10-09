@@ -31,5 +31,7 @@ I used city of Chicago data and analyzed it to detemine if there is a correlatio
 [<img src="images/TableauLogo_RGB.png?raw=true" width="120" height="25"/>](https://public.tableau.com/app/profile/kathleen.chartier)
 
 ---
+<a target="_blank" href="https://icons8.com/icon/12053/document">Document</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>![image](https://github.com/kathleenfchartier/kathleenfchartier.github.io/assets/119955400/1903c057-a794-44bc-aae8-63008aa93b50)
+
 <font size = "1" target="_blank" href="https://icons8.com/icon/12053/document">Document</font> icon by <font size = "1" target="_blank" href="https://icons8.com">Icons8</font>
 
