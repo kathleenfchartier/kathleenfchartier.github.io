@@ -35,3 +35,4 @@ I used city of Chicago data and analyzed it to detemine if there is a correlatio
 
 <font size = "1" target="_blank" href="https://icons8.com/icon/12053/document">Document</font> icon by <font size = "1" target="_blank" href="https://icons8.com">Icons8</font>
 
+<font size = "1" [Document]("https://icons8.com/icon/12053/document")</font>
