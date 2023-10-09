@@ -23,7 +23,9 @@ I used data from manufacturing process to create a dashboard to allow users to s
 I used city of Chicago data and analyzed it to detemine if there is a correlation between student success and socioeconomic status.
 
 ---
-[<img src="images/icons8-document-240.png?raw=true" width="50" height="50"/>]
+[<img src="images/doc_icon.png?raw=true"/>](/files/KGW_02_07_2023.pdf) [Resume](/files/Cliffordres-August.pdf)    
+
+[<img src="images/icons8-document-240.png?raw=true" width="50" height="50"/>](/files/Kathleen Chartier 2.pdf)[Resume](/files/Kathleen Chartier 2.pdf)
 
 [<img src="images/LI-Logo.png?raw=true" width="102" height="25"/>](https://www.linkedin.com/in/kathleen-chartier-338546254)
 
