@@ -3,7 +3,7 @@
 ---
 
 ## [Business Dashboards with Excel] - coming soon!
-[<img src="images/Trends Dashboard.png.png?raw=true" width="400" height="120"/>]
+[<img src="images/Trends_Dashboard.png.png?raw=true" width="400" height="120"/>]
 
 ### Skills: Communication with client to determine needs, Excel Pivot Tables, Pivot Charts, Slicers, Pivot Table Measurements
 ---
