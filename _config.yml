@@ -2,12 +2,12 @@ title: Kathleen Chartier # your name (or website title) here
 logo: "/images/KFCpic.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Analyst<br>
-  I have professional experience as an engineer and mathematics educator and have
-  recently become a Data Analyst and I am excited.  I am very curious about the world
+  I have professional experience as an engineer and mathematics educator.  I have
+  recently become a Data Analyst and I am very excited about my new role!  I am very curious about the world
   around me and am frequently asking "How?" or "Why?".  That is why I love data analytics
   so much - it helps me to answer those questions!<br><br>
 
   <a href="https://www.linkedin.com/in/kathleen-chartier-338546254">View My LinkedIn Profile</a> <br>
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: G-S205V80XJZ # your Google Analytics tracking ID here
 
