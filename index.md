@@ -2,10 +2,10 @@
 
 ---
 
-<>## [Business Dashboards with Excel] - coming soon!
-<>[<img src="images/Trends_Dashboard.png.png?raw=true" width="400" height="120"/>]
+<!--- ## [Business Dashboards with Excel] - coming soon!
+[<img src="images/Trends_Dashboard.png.png?raw=true" width="400" height="120"/>]
 
-<> ### Skills: Communication with client to determine needs, Excel Pivot Tables, Pivot Charts, Slicers, Pivot Table Measurements
+ ### Skills: Communication with client to determine needs, Excel Pivot Tables, Pivot Charts, Slicers, Pivot Table Measurements --->
 ---
 
 ## [Spotify Wrapped](https://www.linkedin.com/pulse/chartier-family-wrapped-kathleen-chartier%3FtrackingId=5%252FPtS9YuWscybzpoKJDbRg%253D%253D/?trackingId=5%2FPtS9YuWscybzpoKJDbRg%3D%3D)
