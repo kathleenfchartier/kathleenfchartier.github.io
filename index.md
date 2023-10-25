@@ -14,8 +14,9 @@
 ## [Business Dashboards with Excel](https://www.linkedin.com/pulse/business-metrics-dashboard-kathleen-chartier-s2bwc)
 [<img src="images/Granite_State_Provisioners.png?raw=true" width="400" height="75"/>]
 
- ### Skills: Communication with client to determine needs, Excel Pivot Tables, Pivot Charts, Slicers, Pivot Table Measurements 
- --->
+### Skills: Communication with client to determine needs, Excel Pivot Tables, Pivot Charts, Slicers, Pivot Table Measurements 
+
+---
 
 ## [Spotify Wrapped](https://www.linkedin.com/pulse/chartier-family-wrapped-kathleen-chartier%3FtrackingId=5%252FPtS9YuWscybzpoKJDbRg%253D%253D/?trackingId=5%2FPtS9YuWscybzpoKJDbRg%3D%3D)
 [<img src="images/Spotify_Logo_CMYK_Green.png?raw=true" width="400" height="120"/>](https://www.linkedin.com/pulse/chartier-family-wrapped-kathleen-chartier%3FtrackingId=5%252FPtS9YuWscybzpoKJDbRg%253D%253D/?trackingId=5%2FPtS9YuWscybzpoKJDbRg%3D%3D)
