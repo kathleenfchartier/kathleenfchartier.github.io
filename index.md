@@ -11,8 +11,8 @@
 
 ---
 
-<!--- ## [Business Dashboards with Excel] - coming soon!
-[<img src="images/Trends_Dashboard.png?raw=true" width="400" height="120"/>]
+## [Business Dashboards with Excel](https://www.linkedin.com/pulse/business-metrics-dashboard-kathleen-chartier-s2bwc)
+[<img src="images/Granite_State_Provisioners.png?raw=true" width="400" height="120"/>]
 
  ### Skills: Communication with client to determine needs, Excel Pivot Tables, Pivot Charts, Slicers, Pivot Table Measurements 
  --->
