@@ -15,6 +15,7 @@
 [<img src="images/Granite_State_Provisioners.png?raw=true" width="400" height="75"/>](https://www.linkedin.com/pulse/business-metrics-dashboard-kathleen-chartier-s2bwc)
 
 ### Skills: Communication with client to determine needs, Excel Pivot Tables, Pivot Charts, Slicers, Pivot Table Measurements 
+I recently consulted with a small business to create dashboards for key metrics they track.  
 
 ---
 
