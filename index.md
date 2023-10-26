@@ -40,7 +40,7 @@ I used city of Chicago data and analyzed it to detemine if there is a correlatio
 
 ---  
 
-[<img src="images/icons8-document-240.png?raw=true" width="50" height="50"/>](/pdf/Kathleen Chartier 2.pdf)[Resume](/pdf/Kathleen Chartier 2.pdf)
+[<img src="images/icons8-document-240.png?raw=true" width="50" height="50"/>](/pdf/Kathleen_Chartier_Oct23.pdf)[Resume](/pdf/Kathleen_Chartier_Oct23.pdf)
 
 [<img src="images/LI-Logo.png?raw=true" width="102" height="25"/>](https://www.linkedin.com/in/kathleen-chartier-338546254)
 
