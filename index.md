@@ -11,11 +11,11 @@
 
 ---
 
-## [Business Dashboards with Excel](https://www.linkedin.com/pulse/business-metrics-dashboard-kathleen-chartier-s2bwc)
+## [Business Metric Dashboards with Excel](https://www.linkedin.com/pulse/business-metrics-dashboard-kathleen-chartier-s2bwc)
 [<img src="images/Granite_State_Provisioners.png?raw=true" width="400" height="75"/>](https://www.linkedin.com/pulse/business-metrics-dashboard-kathleen-chartier-s2bwc)
 
 ### Skills: Communication with client to determine needs, Excel Pivot Tables, Pivot Charts, Slicers, Pivot Table Measurements 
-I recently consulted with a small business to create dashboards for key metrics they track.  
+I recently consulted with a small business to create dashboards for key business metrics they track.  
 
 ---
 
@@ -30,10 +30,10 @@ I used Spotify data from all the family members and created a dashboard to analy
 ## [Hydraulic Oil Rig Dashboard](https://www.linkedin.com/pulse/hydraulic-oil-rig-dashboard-kathleen-chartier%3FtrackingId=W%252BEQU%252B5xtqKBjMsAFwkcEg%253D%253D/?trackingId=W%2BEQU%2B5xtqKBjMsAFwkcEg%3D%3D)
 [<img src="images/beautiful-sunset-oil-field-with-pump-jack.jpg?raw=true" width="224" height="150"/>](https://www.linkedin.com/pulse/hydraulic-oil-rig-dashboard-kathleen-chartier%3FtrackingId=W%252BEQU%252B5xtqKBjMsAFwkcEg%253D%253D/?trackingId=W%2BEQU%2B5xtqKBjMsAFwkcEg%3D%3D)
 ### Skills: Tableau, Excel
-I used data from manufacturing process to create a dashboard to allow users to see the process as a whole.
+I used data from manufacturing process to create a dashboard to allow users to see the measurement data as a whole.
 
 ---
-## [Study of Chicago Crime, Public School and Socioeconomic Data](https://www.linkedin.com/pulse/mysql-python-study-chicago-crime-public-school-data-kathleen-chartier%3FtrackingId=rMeYqneYkJQQD03LFbtitA%253D%253D/?trackingId=rMeYqneYkJQQD03LFbtitA%3D%3D)
+## [Is student success affected by socioeconomic factors?](https://www.linkedin.com/pulse/mysql-python-study-chicago-crime-public-school-data-kathleen-chartier%3FtrackingId=rMeYqneYkJQQD03LFbtitA%253D%253D/?trackingId=rMeYqneYkJQQD03LFbtitA%3D%3D)
 [<img src="images/architecture-1869211_1280.jpg?raw=true" width="244" height="150"/>](https://www.linkedin.com/pulse/mysql-python-study-chicago-crime-public-school-data-kathleen-chartier%3FtrackingId=rMeYqneYkJQQD03LFbtitA%253D%253D/?trackingId=rMeYqneYkJQQD03LFbtitA%3D%3D)
 ### Skills: SQL, Python, Matplotlib
 I used city of Chicago data and analyzed it to detemine if there is a correlation between student success and socioeconomic status.
