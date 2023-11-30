@@ -19,6 +19,13 @@ I recently consulted with a small business to create dashboards for key business
 
 ---
 
+## [Is student success affected by socioeconomic factors?](https://www.linkedin.com/pulse/mysql-python-study-chicago-crime-public-school-data-kathleen-chartier%3FtrackingId=rMeYqneYkJQQD03LFbtitA%253D%253D/?trackingId=rMeYqneYkJQQD03LFbtitA%3D%3D)
+[<img src="images/pexels-marina-3444630.jpg?raw=true" width="240" height="150"/>](https://www.linkedin.com/pulse/mysql-python-study-chicago-crime-public-school-data-kathleen-chartier%3FtrackingId=rMeYqneYkJQQD03LFbtitA%253D%253D/?trackingId=rMeYqneYkJQQD03LFbtitA%3D%3D)
+### Skills: SQL, Python, Matplotlib
+I used city of Chicago data and analyzed it to detemine if there is a correlation between student success and socioeconomic status.
+
+--- 
+
 ## [Spotify Wrapped](https://www.linkedin.com/pulse/chartier-family-wrapped-kathleen-chartier%3FtrackingId=5%252FPtS9YuWscybzpoKJDbRg%253D%253D/?trackingId=5%2FPtS9YuWscybzpoKJDbRg%3D%3D)
 [<img src="images/Spotify_Logo_CMYK_Green.png?raw=true" width="400" height="120"/>](https://www.linkedin.com/pulse/chartier-family-wrapped-kathleen-chartier%3FtrackingId=5%252FPtS9YuWscybzpoKJDbRg%253D%253D/?trackingId=5%2FPtS9YuWscybzpoKJDbRg%3D%3D)
 
@@ -33,12 +40,7 @@ I used Spotify data from all the family members and created a dashboard to analy
 I used data from manufacturing process to create a dashboard to allow users to see the measurement data as a whole.
 
 ---
-## [Is student success affected by socioeconomic factors?](https://www.linkedin.com/pulse/mysql-python-study-chicago-crime-public-school-data-kathleen-chartier%3FtrackingId=rMeYqneYkJQQD03LFbtitA%253D%253D/?trackingId=rMeYqneYkJQQD03LFbtitA%3D%3D)
-[<img src="images/pexels-marina-3444630.jpg?raw=true" width="240" height="150"/>](https://www.linkedin.com/pulse/mysql-python-study-chicago-crime-public-school-data-kathleen-chartier%3FtrackingId=rMeYqneYkJQQD03LFbtitA%253D%253D/?trackingId=rMeYqneYkJQQD03LFbtitA%3D%3D)
-### Skills: SQL, Python, Matplotlib
-I used city of Chicago data and analyzed it to detemine if there is a correlation between student success and socioeconomic status.
-
----  
+ 
 
 [<img src="images/icons8-document-240.png?raw=true" width="50" height="50"/>](/pdf/Kathleen_Chartier_Oct23.pdf)[Resume](/pdf/Kathleen_Chartier_Oct23.pdf)
 
