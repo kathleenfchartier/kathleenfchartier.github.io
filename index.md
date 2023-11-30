@@ -22,7 +22,7 @@ I recently consulted with a small business to create dashboards for key business
 ## [Is student success affected by socioeconomic factors?](https://www.linkedin.com/pulse/mysql-python-study-chicago-crime-public-school-data-kathleen-chartier%3FtrackingId=rMeYqneYkJQQD03LFbtitA%253D%253D/?trackingId=rMeYqneYkJQQD03LFbtitA%3D%3D)
 [<img src="images/pexels-marina-3444630.jpg?raw=true" width="240" height="150"/>](https://www.linkedin.com/pulse/mysql-python-study-chicago-crime-public-school-data-kathleen-chartier%3FtrackingId=rMeYqneYkJQQD03LFbtitA%253D%253D/?trackingId=rMeYqneYkJQQD03LFbtitA%3D%3D)
 ### Skills: SQL, Python, Matplotlib
-I used city of Chicago data and analyzed it to detemine if there is a correlation between student success and socioeconomic status.
+I used city of Chicago data and analyzed it to determine if there is a correlation between student success and socioeconomic status.
 
 --- 
 
