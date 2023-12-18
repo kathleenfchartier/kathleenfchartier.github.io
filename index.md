@@ -12,7 +12,7 @@
 ---
 
 ## [Business Metric Dashboards with Excel](https://www.linkedin.com/pulse/business-metrics-dashboard-kathleen-chartier-s2bwc)
-[<img src="images/Granite_State_Provisioners.png?raw=true" width="400" height="75"/>](https://www.linkedin.com/pulse/business-metrics-dashboard-kathleen-chartier-s2bwc) Image by rawpixel.com on Freepik
+[<img src="images/Granite_State_Provisioners.png?raw=true" width="400" height="75"/>](https://www.linkedin.com/pulse/business-metrics-dashboard-kathleen-chartier-s2bwc) 
 
 ### Skills: Communication with client to determine needs, Excel Pivot Tables, Pivot Charts, Slicers, Pivot Table Measurements 
 I recently consulted with a small business to create dashboards for key business metrics they track.  
@@ -20,7 +20,7 @@ I recently consulted with a small business to create dashboards for key business
 ---
 ## [Need Food? Analysis of food delivery company iFood](https://www.linkedin.com/pulse/need-food-now-kathleen-chartier-dyjmc%3FtrackingId=vIlYShiWRFy%252FShdTWeXpeg%253D%253D/?trackingId=vIlYShiWRFy%2FShdTWeXpeg%3D%3D)
 [<img src="images/eco-friendly-food-packaging-delivery-concept.jpg?raw=true" width="225" height="150"/>](https://www.linkedin.com/pulse/need-food-now-kathleen-chartier-dyjmc%3FtrackingId=vIlYShiWRFy%252FShdTWeXpeg%253D%253D/?trackingId=vIlYShiWRFy%2FShdTWeXpeg%3D%3D) 
-# Image by rawpixel.com on Freepik
+Image by rawpixel.com on Freepik
 
 ### Skills: Excel Pivot Tables, Pivot Charts, Radial Charts, Industry Research 
 I analyzed customer data from a regional food delivery company to provide insights on customer spending and evaluate success of marketing campaigns.
