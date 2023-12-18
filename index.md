@@ -19,7 +19,8 @@ I recently consulted with a small business to create dashboards for key business
 
 ---
 ## [Need Food? Analysis of food delivery company iFood](https://www.linkedin.com/pulse/need-food-now-kathleen-chartier-dyjmc%3FtrackingId=vIlYShiWRFy%252FShdTWeXpeg%253D%253D/?trackingId=vIlYShiWRFy%2FShdTWeXpeg%3D%3D)
-[<img src="images/eco-friendly-food-packaging-delivery-concept.jpg?raw=true" width="225" height="150"/>](https://www.linkedin.com/pulse/need-food-now-kathleen-chartier-dyjmc%3FtrackingId=vIlYShiWRFy%252FShdTWeXpeg%253D%253D/?trackingId=vIlYShiWRFy%2FShdTWeXpeg%3D%3D)
+[<img src="images/eco-friendly-food-packaging-delivery-concept.jpg?raw=true" width="225" height="150"/>](https://www.linkedin.com/pulse/need-food-now-kathleen-chartier-dyjmc%3FtrackingId=vIlYShiWRFy%252FShdTWeXpeg%253D%253D/?trackingId=vIlYShiWRFy%2FShdTWeXpeg%3D%3D) 
+# Image by rawpixel.com on Freepik
 
 ### Skills: Excel Pivot Tables, Pivot Charts, Radial Charts, Industry Research 
 I analyzed customer data from a regional food delivery company to provide insights on customer spending and evaluate success of marketing campaigns.
