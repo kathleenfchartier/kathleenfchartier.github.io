@@ -29,6 +29,8 @@ I analyzed customer data from a regional food delivery company to provide insigh
 
 ## [Is student success affected by socioeconomic factors?](https://www.linkedin.com/pulse/mysql-python-study-chicago-crime-public-school-data-kathleen-chartier%3FtrackingId=rMeYqneYkJQQD03LFbtitA%253D%253D/?trackingId=rMeYqneYkJQQD03LFbtitA%3D%3D)
 [<img src="images/pexels-marina-3444630.jpg?raw=true" width="240" height="150"/>](https://www.linkedin.com/pulse/mysql-python-study-chicago-crime-public-school-data-kathleen-chartier%3FtrackingId=rMeYqneYkJQQD03LFbtitA%253D%253D/?trackingId=rMeYqneYkJQQD03LFbtitA%3D%3D)
+Image from www.pexels.com
+
 ### Skills: SQL, Python, Matplotlib
 I used city of Chicago data and analyzed it to determine if there is a correlation between student success and socioeconomic status.
 
@@ -44,6 +46,8 @@ I used Spotify data from all the family members and created a dashboard to analy
 
 ## [Hydraulic Oil Rig Dashboard](https://www.linkedin.com/pulse/hydraulic-oil-rig-dashboard-kathleen-chartier%3FtrackingId=W%252BEQU%252B5xtqKBjMsAFwkcEg%253D%253D/?trackingId=W%2BEQU%2B5xtqKBjMsAFwkcEg%3D%3D)
 [<img src="images/beautiful-sunset-oil-field-with-pump-jack.jpg?raw=true" width="224" height="150"/>](https://www.linkedin.com/pulse/hydraulic-oil-rig-dashboard-kathleen-chartier%3FtrackingId=W%252BEQU%252B5xtqKBjMsAFwkcEg%253D%253D/?trackingId=W%2BEQU%2B5xtqKBjMsAFwkcEg%3D%3D)
+Image from freepik.com
+
 ### Skills: Tableau, Excel
 I used data from manufacturing process to create a dashboard to allow users to see the measurement data as a whole.
 
